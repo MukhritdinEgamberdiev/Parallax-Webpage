@@ -1,0 +1,369 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: url('../img/tashkent11.jpg')fixed;
+  font-family: "Roboto Slab", serif;
+  background-size: cover;
+    -webkit-background-size:  cover;
+	-moz-background-size:  cover;
+	-o-background-size:  cover;
+	background-attachment: fixed;
+}
+
+
+.header {
+  
+  padding: 20px;
+  background: url('../img/tashkent11blur.jpg')fixed;
+  text-align: center;
+  border-radius: 10px;
+  overflow: hidden;
+  background-size: cover;
+    -webkit-background-size:  cover;
+	-moz-background-size:  cover;
+	-o-background-size:  cover;
+	background-attachment: fixed;
+}
+  
+
+.textput  {
+  padding: 20px;
+  margin: 50px auto;
+  background: url('../img/tashkent11blur.jpg');
+ background-size: cover;
+ max-width: 90%;
+    -webkit-background-size:  cover;
+  -moz-background-size:  cover;
+  -o-background-size:  cover;
+  background-attachment: fixed;
+  border-radius: 7px;
+  box-shadow: 0px 25px 30px -20px grey;
+  box-sizing: border-box;
+  height: 300px;
+  overflow: hidden;
+}
+.textput p {
+  padding: 20px;
+  color: black;
+  font-size: 19px;
+  text-decoration: none;
+  text-align: justify-all;
+  
+  
+}
+.textput {
+  transition: 2s ease-in-out;
+  -wekit-transition: 2s ease-in-out;
+  opacity: 1;
+}
+
+.textput:hover  {
+  text-decoration: none;
+  background: grey;
+  opacity: 0.9;
+  transition: 2s ease-in-out;
+  -wekit-transition: 2s ease-in-out;
+}
+.textput:hover p {
+  text-decoration: none;
+  color: white;
+  
+}
+
+.text {
+  padding: 30px 10px;
+  font-size: 30px;
+  color: #fff;
+  font-family: halvetica;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+
+.website {
+  padding-top: 50%;
+  padding: 20px;
+  margin-top: 40%;
+  margin: 50px auto;
+  background: url('../img/tashkent11blur.jpg');
+ background-size: cover;
+ max-width: 90%;
+    -webkit-background-size:  cover;
+	-moz-background-size:  cover;
+	-o-background-size:  cover;
+	background-attachment: fixed;
+  border-radius: 7px;
+  box-shadow: 0px 25px 30px -20px grey;
+  box-sizing: border-box;
+}
+.grow .item:hover {   
+    width: 50%;
+    height: 50%;    
+    
+      
+}
+.grid {
+  padding: 10px;
+  -webkit-perspective: 1000px;
+          perspective: 1000px;
+}
+.grid .item {
+	border: none;
+  margin: 0 auto;
+  background: #ccc;
+  height: 60px;
+  margin-bottom: 10px;
+  display: inline-block;
+  width: 100%;
+  border-radius: 4px;
+  padding: 20px;
+  box-sizing: border-box;
+  color: white;
+  width: 160px;
+  background-position: center;
+  background-size: cover;
+}
+.grid .item:nth-child(1) {
+  background-image: url(../img/tashkent4.jpg);
+}
+.grid .item:nth-child(2) {
+  background-image: url(../img/tash.jpg);
+}
+.grid .item:nth-child(3) {
+  background-image: url(../img/tashkent.jpg);
+}
+.grid .item:nth-child(4) {
+  background-image: url(../img/tashkent2.jpg);
+}
+.grid .item:nth-child(5) {
+  background-image: url(../img/tashkent5.jpg);
+}
+.grid .item:nth-child(6) {
+  background-image: url(../img/tashkent7.jpg);
+}
+.grid .item:nth-child(7) {
+  background-image: url(../img/tashkent8.jpg);
+}
+.grid .item:nth-child(8) {
+  background-image: url(../img/tashkent11.jpg);
+}
+.grid .item:nth-child(9) {
+  background-image: url(../img/tashkent12.jpg);
+}
+.grid .item:nth-child(10) {
+  background-image: url(../img/tashkent13.jpg);
+}
+.grid .item:nth-child(11) {
+  background-image: url(../img/tashkent15.jpg);
+}
+.grid .item:nth-child(12) {
+  background-image: url(../img/tashkent16.jpg);
+}
+.grid .item:nth-child(13) {
+  background-image: url(../img/tashkent17.jpg);
+}
+.grid .item:nth-child(14) {
+  background-image: url(../img/tashkent18.jpg);
+}
+.grid .item:nth-child(15) {
+  background-image: url(../img/tashkent19.jpg);
+}
+.grid .item:nth-child(16) {
+  background-image: url(../img/tashkent20.jpg);
+}
+.grid .item:nth-child(17) {
+  background-image: url(../img/tashkent21.jpg);
+}
+.grid .item:nth-child(18) {
+  background-image: url(../img/InternationalHotel.jpg);
+}
+.grid .item:nth-child(19) {
+  background-image: url(../img/toshkent.jpg);
+}
+.grid .item:nth-child(20) {
+  background-image: url(../img/minor.jpg);
+}
+.grid .item:nth-child(21) {
+  background-image: url(../img/kokand.jpg);
+}
+.grid .item:nth-child(22) {
+  background-image: url(../img/darvoza.jpg);
+}
+.grid .item:nth-child(23) {
+  background-image: url(../img/chkalov.jpg);
+}
+.grid .item:nth-child(24) {
+  background-image: url(../img/20141109091206.jpg);
+}
+.grid .item:nth-child(25) {
+  background-image: url(../img/0_7e551_4054debd_XXL.jpg);
+}
+.grid .item:nth-child(26) {
+  background-image: url(../img/buxoro8.jpg);
+}
+
+.grid .item:nth-child(4n-5) {
+  height: 50px;
+}
+.grid .item:nth-child(2n) {
+  height: 300px;
+}
+.grid .item:nth-child(3n) {
+  height: 120px;
+}
+
+
+.item {
+  opacity: 0;
+}
+
+
+.item.is-visible {
+  -webkit-animation: Items 600ms ease-in forwards;
+          animation: Items 600ms ease-in forwards;
+}
+
+
+@-webkit-keyframes Items2 {
+  0% {
+    opacity: 0;
+    height: 0%;
+    padding: 0px;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+@keyframes Items2 {
+  0% {
+    opacity: 0;
+    height: 0%;
+    padding: 0px;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes Items {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.3) rotateY(90deg);
+            transform: scale(0.3) rotateY(90deg);
+  }
+  60% {
+    -webkit-transform: scale(1.4);
+            transform: scale(1.4);
+  }
+  90% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes Items {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.3) rotateY(90deg);
+            transform: scale(0.3) rotateY(90deg);
+  }
+  60% {
+    -webkit-transform: scale(1.4);
+            transform: scale(1.4);
+  }
+  90% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+  }
+}
+footer {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background: url('../img/tashkentfooter.jpg')fixed no-repeat;
+    border-radius: 7px;
+     -webkit-background-size:  cover;
+	-moz-background-size:  cover;
+	-o-background-size:  cover;
+	opacity: 1;
+}
+footer p:hover {
+  background: white;
+  opacity: 0.7;
+  border-radius: 7px;
+
+}
+footer div {
+    display: table;
+    margin: 0 auto;
+    padding: 44px 0;
+    width: 940px;
+    color: #777;
+    clear: both;
+}
+
+footer div section {
+    display: table-cell;
+    width: 300px;
+}
+footer div #about, footer div #blogroll {
+    padding-right: 20px;
+}
+footer h3 {
+    color: black;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+footer a:hover {
+    color: white;
+    text-decoration: none;
+}
+footer ul {
+    text-decoration: none;
+    margin: 0 0 0 40px;
+    list-style: square;
+    color: #565656;
+}
+footer ul li a {
+    display: block;
+}
+footer .copyright {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 40px;
+	padding: 0;
+
+}
+footer .lastfoot {
+	display: block;
+}
+footer .lastfoot ul .ulf  {
+	padding: 0;
+	margin: 0;
+	display: inline;
+	float: left;
+}
+footer .lastfoot ul li {
+	text-decoration: none;
+	list-style-type: none;
+
+}
+footer .lastfoot ul .lisocial {
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
